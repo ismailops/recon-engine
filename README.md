@@ -56,7 +56,7 @@ and the data flow diagram.
 Requires Python 3.11 or later.
 
 ```bash
-git clone https://github.com/your-org/recon-engine.git
+git clone https://github.com/ismailops/recon-engine.git
 cd recon-engine
 python -m venv .venv
 source .venv/bin/activate       # Windows: .venv\Scripts\activate
